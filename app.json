@@ -1,4 +1,5 @@
 {
   "name": "heroku-test",
-  "description": "heroku test:)"
+  "description": "heroku test:)",
+  "stack": "container"
 }
